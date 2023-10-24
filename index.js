@@ -1,7 +1,7 @@
 //Calculadora de Partidas Rankeadas
 //Percebi que poderia realizar função para todo o código
 
-//Declaração de variáveia
+//Declaração de variáveis
 let vitoria = 10
 let derrota = 2
 let nome = "Hulk"
